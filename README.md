@@ -17,4 +17,4 @@ Heart Disease Dataset
 79.5%
 
 ## Author
-Your Name
+Valli
