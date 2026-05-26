@@ -1,13 +1,13 @@
-# Disease Prediction using Machine Learning
+# Credit Scoring Model
 
 ## Project Description
-This project predicts disease possibility using medical data.
+This project predicts whether a customer is creditworthy or not using machine learning.
 
 ## Algorithm Used
-Logistic Regression
+Random Forest Classifier
 
 ## Dataset
-Heart Disease Dataset
+German Credit Dataset
 
 ## Libraries Used
 - pandas
