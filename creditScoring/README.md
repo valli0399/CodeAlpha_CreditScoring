@@ -1,17 +1,20 @@
 # Credit Scoring Model
 
-This project predicts credit risk using Machine Learning.
+## Project Description
+This project predicts credit risk using machine learning.
 
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
+## Algorithm Used
+Random Forest Classifier
 
-## Algorithm
-- Random Forest Classifier
+## Dataset
+German Credit Dataset
+
+## Libraries Used
+- pandas
+- scikit-learn
 
 ## Accuracy
-- 79.5%
+74.5%
 
 ## Author
-- Valli
+Valli
