@@ -11,4 +11,7 @@ This project predicts credit risk using Machine Learning.
 - Random Forest Classifier
 
 ## Accuracy
-- 74.5%
+- 79.5%
+
+## Author
+- Valli
