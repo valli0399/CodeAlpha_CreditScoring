@@ -14,7 +14,7 @@ German Credit Dataset
 - scikit-learn
 
 ## Accuracy
-79.5%
+73%
 
 ## Author
 Valli
